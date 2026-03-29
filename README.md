@@ -6,6 +6,8 @@
 ![GCC](https://img.shields.io/badge/Compiler-GCC-red?logo=gnu)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+CREDITS: Računarska sekcija KSET-a
+
 A structured and practical collection of Linux command-line exercises and solutions,  
 designed to build strong foundational knowledge in Unix/Linux systems.
 
