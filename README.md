@@ -14,35 +14,6 @@ through shell scripting, process management, permissions, signals, and regular e
 
 ---
 
-## 📂 Repository Structure
-
-LINUXBASICS/
-
-├── A-Basics/
-│ ├── exercises01.sh
-│ └── solutions01.sh
-│
-├── B-FileSystem/
-│ ├── exercises02.sh
-│ ├── solutions02.sh
-│ └── users.dat
-│
-├── C-UsersAndPermissions/
-│ ├── exercises03.sh
-│ └── solutions03.sh
-│
-├── D-Signals/
-│ ├── exercises04.sh
-│ ├── solutions04.sh
-│ ├── signal_handler.c
-│ └── priority_interrupt_simulation.c
-│
-└── E-WildcardsAndRegexes/
-├── exercises05.sh
-└── solutions05.sh
-
----
-
 ## 🧠 Topics Covered
 
 - Shell fundamentals and command-line usage
